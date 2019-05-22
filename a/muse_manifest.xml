@@ -1,0 +1,78 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mmmm1205.github.io" resolutions="1x" timestamp="1558544300896">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3867919799" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="pluto.pdf" crc="4179031866" seo="true" mt="1557554454000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="post_cut.jpg" crc="4076307454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u311-4.png" crc="11034464" ref="index"/>
+    <file name="u314-4.png" crc="4249283226" ref="index"/>
+    <file name="u534-4.png" crc="215140841" ref="index"/>
+    <file name="u514-4.png" crc="3789507620" ref="index"/>
+    <file name="ice0001.jpg" crc="22756008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ice0060.jpg" crc="210998902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="45.jpg" crc="452613199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-45.jpg" crc="307197073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u515-4.png" crc="3809861339" ref="index"/>
+    <file name="factory.jpg" crc="23224676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="opening.jpg" crc="3925835812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="factory2.jpg" crc="4080614693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rock.jpg" crc="281588579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u516-4.png" crc="4253171517" ref="index"/>
+    <file name="1.png" crc="3943072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="4000157990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="128877007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="508441304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u533-4.png" crc="4189541712" ref="index"/>
+    <file name="open_front0115.jpg" crc="183133176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bill board0001.jpg" crc="3828644611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shake0465.jpg" crc="20238728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fly in015.jpg" crc="4158905976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4119507585" seo="true" mt="1558241730491" redirect="true"/>
+</manifest>
